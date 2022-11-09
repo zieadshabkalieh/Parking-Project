@@ -1,0 +1,3 @@
+parking is already empty
+no slots is available
+free spaces regualry
